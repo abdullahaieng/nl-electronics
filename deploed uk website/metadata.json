@@ -1,0 +1,6 @@
+{
+  "name": "NI Drip Central Electronics",
+  "description": "The official online store of NI Drip Central Electronics - Northern Ireland's leading retailer of high-quality home appliances, smart TVs, and kitchen essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
